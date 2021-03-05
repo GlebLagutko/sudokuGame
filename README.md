@@ -2,10 +2,10 @@
 
 https://603df956792ea9a2cfdae455--sudoku-name-gleblagutko.netlify.app/
 
-#Browser
+## Browser
 The latest Chrome version
 
-#Additional functionality
+## Additional functionality
 ## Server/backend information
 Game results are saved on a server. Game results are stored only for one day 
 because a free version of Apollo Server is used.
