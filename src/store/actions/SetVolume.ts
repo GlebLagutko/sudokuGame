@@ -1,0 +1,1 @@
+export const SET_SOUND_VOLUME = "SET_SOUND_VOLUME"
