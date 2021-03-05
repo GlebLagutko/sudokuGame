@@ -13,3 +13,12 @@ because a free version of Apollo Server is used.
 ## Keyboard
 1. It is possible to enter numbers by keyboard.
 2. f or F: enter full screen mode.
+
+## Screenshots
+
+![image](./assets/images/main.png)
+
+
+![image](./assets/images/responsive.png)
+
+
